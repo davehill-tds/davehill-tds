@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Dave 👋
+
+I'm a Consultant at [Test Driven Solutions Ltd](https://www.testdrivensolutions.co.uk/).
+
 
 <!--
 **davehill-tds/davehill-tds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
